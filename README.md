@@ -51,7 +51,6 @@ Given a video game's **title**, **description**, and **screenshot**, predict whi
 | DeBERTa-v3-xsmall | 0.62 | 4 epochs, ASL loss |
 | RoBERTa-base | 0.76 | 3 epochs, ASL loss |
 | ConvNeXt-Tiny | 0.30 | 1 epoch, pos_weight BCE |
-| **Ensemble (stacked)** | — | Final submission |
 
 ---
 
