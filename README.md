@@ -1,6 +1,6 @@
 # Video Game Genre Classifier
 
-A **multi-label, multi-modal** classification system that predicts video game genres from text metadata (title + description) and in-game screenshots, using transformer ensembles and stacking.
+A **multi-label, multi-modal** classification model that predicts video game genres from text metadata (title + description) and in-game screenshots, using transformer ensembles and stacking.
 
 
 ---
