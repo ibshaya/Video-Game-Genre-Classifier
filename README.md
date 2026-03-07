@@ -83,4 +83,3 @@ video-game-genre-classifier/
 ## Author
 
 **ibrahim Alshaya**
-Software Engineer
