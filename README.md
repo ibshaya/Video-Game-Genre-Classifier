@@ -17,7 +17,7 @@ Given a video game's **title**, **description**, and **screenshot**, predict whi
 
 ## Tools
 
-**Python, PyTorch, Hugging Face Transformers, timm, Scikit-learn, iterative-stratification, Optuna, Pandas, NumPy.**
+**Python, PyTorch, Hugging Face Transformers, timm, Scikit-learn, Optuna, Pandas, NumPy.**
 
 ---
 
