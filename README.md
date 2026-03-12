@@ -48,9 +48,9 @@ Given a video game's **title**, **description**, and **screenshot**, predict whi
 
 | Model | Best Fold Val F1 | Notes |
 |-------|-----------------|-------|
-| DeBERTa-v3-xsmall | 0.62 | 4 epochs, ASL loss |
-| RoBERTa-base | 0.76 | 3 epochs, ASL loss |
-| ConvNeXt-Tiny | 0.30 | 1 epoch, pos_weight BCE |
+| DeBERTa-v3-xsmall | 0.82 | 4 epochs, ASL loss |
+| RoBERTa-base | 0.86 | 3 epochs, ASL loss |
+| ConvNeXt-Tiny | 0.67 | 1 epoch, pos_weight BCE |
 
 ---
 
